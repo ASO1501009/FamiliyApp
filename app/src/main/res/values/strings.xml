@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FamiliyApps</string>
+    <string name="atesaki">母さん</string>
+    <string name="aaa">結果を報告しよう！</string>
+    <string name="haha">kaasan@gmail.com</string>
+    <string name="omake">haha@gmail.com</string>
+    <string name="button_send">送信</string>
+    <string name="dinner">今日の晩御飯</string>
+    <string name="houkoku">報告</string>
+    <string name="ジャンル">ご飯</string>
+    <string name="数">数</string>
+</resources>
